@@ -12,6 +12,6 @@ To upload rom and generate json simply run source release.sh ../path/to/lineageo
 
 if you want to host this on your own git you can change URL= value inside of release.sh
 
-On device side changes either add overlay for updater_server_urlor add prop lineage.updater.uri that points to json e.g. lineage.updater.uri=https://raw.githubusercontent.com/ShuTing-Chaing/LineageOS-OTA/master/{VERSION}/{device}.json
+On device side changes either add overlay for updater_server_urlor add prop lineage.updater.uri that points to json e.g. lineage.updater.uri=https://raw.githubusercontent.com/ShuTing-Chaing/LineageOS-OTA/main/{VERSION}/{device}.json
 
 do note you can either hardcode {device} or leave it to updater to handle that tho in that case user might break otas by changing props
