@@ -1,1 +1,13 @@
-
+{
+  "response": [
+    {
+      "datetime": "1698425177",
+      "filename": "lineage-17.1-20231027-UNOFFICIAL-n1awifi.zip",
+      "id": "3f6107951c1a1e4d543eb5445d986f1440bead7a09fc6d26243f21993c0ae686",
+      "romtype": "UNOFFICIAL",
+      "size": "442105286",
+      "url": "https://github.com/ShuTing-Chaing/LineageOS-OTA/releases/download/n1awifi_lineage-17.1_1698425177/lineage-17.1-20231027-UNOFFICIAL-n1awifi.zip",
+      "version": "17.1"
+    }
+  ]
+}
