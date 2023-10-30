@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1698472440",
-      "filename": "lineage-18.1-20231028-UNOFFICIAL-n1awifi.zip",
-      "id": "a0ea034747f7087b7e50362e78c731bcedccf0cafe8a0cb08f506a088996e323",
+      "datetime": "1698594804",
+      "filename": "lineage-18.1-20231029-UNOFFICIAL-n1awifi.zip",
+      "id": "b6811a73f7ab1eeace7da2befe2baba2b52d98f969d74e3e4a3bdbfc583cc001",
       "romtype": "UNOFFICIAL",
-      "size": "482191304",
-      "url": "https://github.com/ShuTing-Chaing/LineageOS-OTA/releases/download/n1awifi_lineage-18.1_1698472440/lineage-18.1-20231028-UNOFFICIAL-n1awifi.zip",
+      "size": "482189264",
+      "url": "https://github.com/ShuTing-Chaing/LineageOS-OTA/releases/download/n1awifi_lineage-18.1_1698594804/lineage-18.1-20231029-UNOFFICIAL-n1awifi.zip",
       "version": "18.1"
     }
   ]
